@@ -54,7 +54,7 @@ const Footer = () => {
         </div>
       </div>
       <div className="programmer w-full bg-neutral-900 py-5 flex justify-center items-center font-medium tracking-wider">
-        Coded with &lt;
+        Coded by &lt;
         <a
           href="https://www.linkedin.com/in/ahmed-ashraf55559"
           target="_blank"
